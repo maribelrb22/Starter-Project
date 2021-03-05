@@ -9,4 +9,6 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Javier Vilariño Mayo (javvilmay@alum.us.es)
 - Maria Isabel Ramos Blanco (marrambla2@alum.us.es)
+
