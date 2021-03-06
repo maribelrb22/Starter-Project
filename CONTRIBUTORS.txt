@@ -9,8 +9,8 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Javier Martínez Fernández - Developer (javmarfer3@alum.us.es)
 - Manuel Muñoz España (manmunesp1@alum.us.es)
 - Javier Vilariño Mayo (javvilmay@alum.us.es)
 - Maria Isabel Ramos Blanco (marrambla2@alum.us.es)
-
 
