@@ -20,6 +20,7 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.JaviV" action="https://www.blog.binaria.uno/2020/03/22/como-agregar-un-directorio-a-tu-path-en-linux/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -33,10 +34,12 @@
 
 		<acme:menu-option code="master.menu.provider" access="hasRole('Provider')">
 			<acme:menu-suboption code="master.menu.provider.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.provider.favourite-link.JaviV" action="https://www.blog.binaria.uno/2020/03/22/como-agregar-un-directorio-a-tu-path-en-linux/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.favourite-link.JaviV" action="https://www.blog.binaria.uno/2020/03/22/como-agregar-un-directorio-a-tu-path-en-linux/"/>
 		</acme:menu-option>
 	</acme:menu-left>
 
