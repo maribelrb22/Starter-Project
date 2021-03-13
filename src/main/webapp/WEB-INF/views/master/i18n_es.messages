@@ -29,6 +29,7 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.favourite-link.JaviV = Enlace favorito de JavierV
 master.menu.anonymous.favourite-link.Gonzalo = Enlace favorito de Gonzalo
 master.menu.anonymous.favourite-link.Maribel = Enlace favorito de Maribel
 master.menu.anonymous.favourite-link.JaviM = Enlace favorito de Javier
@@ -46,6 +47,7 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
+master.menu.provider.favourite-link.JaviV = Enlace favorito de JavierV
 master.menu.provider.favourite-link.Gonzalo = Enlace favorito de Gonzalo
 master.menu.provider.favourite-link.Maribel = Enlace favorito de Maribel
 master.menu.provider.favourite-link.JaviM = Enlace favorito de Javier
@@ -54,6 +56,7 @@ master.menu.provider.favourite-link.JaviM = Enlace favorito de Javier
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link = Enlace favorito
+master.menu.consumer.favourite-link.JaviV = Enlace favorito de JavierV
 master.menu.consumer.favourite-link.Gonzalo = Enlace favorito de Gonzalo
 master.menu.consumer.favourite-link.Maribel = Enlace favorito de Maribel
 master.menu.consumer.favourite-link.JaviM = Enlace favorito de Javier
