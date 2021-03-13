@@ -30,6 +30,7 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.favourite-link.Maribel = Enlace favorito de Maribel
+master.menu.anonymous.favourite-link.JaviM = Enlace favorito de Javier
 
 # master.menu.administrator ###################################################
 
@@ -45,12 +46,14 @@ master.menu.administrator.shutdown = Parar el sistema
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
 master.menu.provider.favourite-link.Maribel = Enlace favorito de Maribel
+master.menu.provider.favourite-link.JaviM = Enlace favorito de Javier
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link = Enlace favorito
 master.menu.consumer.favourite-link.Maribel = Enlace favorito de Maribel
+master.menu.consumer.favourite-link.JaviM = Enlace favorito de Javier
 
 # master.menu.user-account ####################################################
 
@@ -109,4 +112,3 @@ master.panic.label.request = Petición:
 master.panic.label.status = Estado:
 master.panic.label.exceptions = Excepciones:
 master.panic.text.consult-log = Por favor, consulte el log para ver más detalles.
-
