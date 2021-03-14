@@ -28,13 +28,12 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
-master.menu.anonymous.favourite-link.Manuel= Enlace favorito de Manuel
-master.menu.anonymous.favourite-link.Evelyn = Enlace favorito de Evelyn
-master.menu.anonymous.favourite-link.JaviV = Enlace favorito de JavierV
-master.menu.anonymous.favourite-link.Gonzalo = Enlace favorito de Gonzalo
-master.menu.anonymous.favourite-link.Maribel = Enlace favorito de Maribel
-master.menu.anonymous.favourite-link.JaviM = Enlace favorito de Javier
+master.menu.anonymous.favourite-link.Manuel= Enlace favorito de Muñoz
+master.menu.anonymous.favourite-link.Evelyn = Enlace favorito de Yugsi
+master.menu.anonymous.favourite-link.JaviV = Enlace favorito de Vilariño
+master.menu.anonymous.favourite-link.Gonzalo = Enlace favorito de Álvarez
+master.menu.anonymous.favourite-link.Maribel = Enlace favorito de Ramos
+master.menu.anonymous.favourite-link.JaviM = Enlace favorito de Martínez
 
 # master.menu.administrator ###################################################
 
