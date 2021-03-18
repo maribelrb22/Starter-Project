@@ -1,7 +1,7 @@
 /*
  * SignUpTest.java
  *
- * Copyright (c) 2012-2021 Rafael Corchuelo.
+ * Copyright (C) 2012-2021 Rafael Corchuelo.
  *
  * In keeping with the traditional purpose of furthering education and research, it is
  * the policy of the copyright owner to permit non-commercial use and redistribution of
@@ -31,7 +31,7 @@ public class SignUpTest extends AbstractTest {
 	public void beforeAll() {
 		super.beforeAll();
 
-		super.setBaseCamp("http", "localhost", "8080", "/Acme-One", "/master/welcome", "?language=en&debug=true");
+		super.setBaseCamp("http", "localhost", "8080", "/Starter-Project", "/master/welcome", "?language=en&debug=true");
 		super.setAutoPausing(true);
 
 		this.signIn("administrator", "administrator");
