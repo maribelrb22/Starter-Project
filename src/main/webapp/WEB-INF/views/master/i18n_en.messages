@@ -10,14 +10,13 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #DFFFA5
 
 # master.welcome ##############################################################
 
 master.welcome.title = Welcome!
 master.welcome.text = \
-	Welcome to Starter Project! Never before has it bee easier to get your \
-	project up and running!
+	Welcome to Acme One! Your first project in D&T
 
 # master.menu #################################################################
 
@@ -29,7 +28,12 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.favourite-link.Manuel= Muñoz's favourite link
+master.menu.anonymous.favourite-link.Evelyn = Yugsi's favourite link
+master.menu.anonymous.favourite-link.JaviV = Vilariño's favourite link
+master.menu.anonymous.favourite-link.Gonzalo = Álvarez's favourite link
+master.menu.anonymous.favourite-link.Maribel = Ramos' favourite link
+master.menu.anonymous.favourite-link.JaviM = Martínez's favourite link
 
 # master.menu.administrator ###################################################
 
@@ -43,12 +47,22 @@ master.menu.administrator.shutdown = Shut down
 # master.menu.provider ########################################################
 
 master.menu.provider = Provider
-master.menu.provider.favourite-link = Favourite link
+master.menu.provider.favourite-link.Manuel= Muñoz's favourite link
+master.menu.provider.favourite-link.Evelyn = Yugsi's favourite link
+master.menu.provider.favourite-link.JaviV = Vilariño's favourite link
+master.menu.provider.favourite-link.Gonzalo = Álvarez's favourite link
+master.menu.provider.favourite-link.Maribel = Ramos' favourite link
+master.menu.provider.favourite-link.JaviM = Martínez's favourite link
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumer
-master.menu.consumer.favourite-link = Favourite link
+master.menu.consumer.favourite-link.Manuel= Muñoz's favourite link
+master.menu.consumer.favourite-link.Evelyn = Yugsi's favourite link
+master.menu.consumer.favourite-link.JaviV = Vilariño's favourite link
+master.menu.consumer.favourite-link.Gonzalo = Álvarez's favourite link
+master.menu.consumer.favourite-link.Maribel = Ramos' favourite link
+master.menu.consumer.favourite-link.JaviM = Martínez's favourite link
 
 # master.menu.user-account ####################################################
 
@@ -73,15 +87,15 @@ master.footer.label.spanish = Spanish
 
 # master.company ##############################################################
 
-master.company.title = The company
+master.company.title = dp2-2021-g1-01
 master.company.text = \
-	Starter Project, Inc. is a fictitious fictitious company that provides a \
+	Acme-One G1-01, Inc. is a fictitious fictitious company that provides a \
 	starter project for the students of the Design and Testing subject of the \
 	Software Engineering Curriculum of the University of Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Number Street, City, State, Country
-master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.name = Acme-One G1-01, Inc.
+master.company.address = Calle Romeo de Julieta, 15, Sevilla, Sevilla, España
+master.company.phone = +34 639 654 355
+master.company.email = g101projects@acme.com
 
 # master.license ##############################################################
 
